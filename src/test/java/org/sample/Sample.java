@@ -20,5 +20,8 @@ public static void main(String[] args) {
 	
 	Sample s=new Sample();
 	s.id();
-}
+	s.role();
+	s.experience();
+	s.team();
+} 
 }
