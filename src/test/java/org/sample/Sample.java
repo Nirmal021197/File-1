@@ -16,12 +16,16 @@ public void team()
 {
 	System.out.println("QA");
 }
+public void method1()
+{
+	System.out.println("method1");
+}
 public static void main(String[] args) {
 	
 	Sample s=new Sample();
 	s.id();
 	s.role();
 	s.experience();
-	s.team();
+	
 } 
 }
